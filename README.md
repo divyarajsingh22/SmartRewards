@@ -2,15 +2,20 @@
 
 A full-stack React Native quiz game with real-time battles, tournaments, and token rewards.
 
-## Images
 
-![Image 1](./app/assets/images/home.png)
+## Media
+
+### Application Previews
+| Home Screen | Profile Screen |
+| :---: | :---: |
+| ![Home Screen](app/assets/images/home.png) | ![Profile Screen](app/assets/images/profile.png) |
+
+### Demo Video
+<video src="app/assets/videos/SmartRewards.mp4" controls="controls" style="max-width: 600px;">
+  Your browser does not support the video tag.
+</video>
 
 
-![Image 3](/app/assets/images/profile.png)
-
-
-![Video 1](./app/assets/videos/SmartRewards.mp4)
 ## Features
 
 - Daily Rush: Answer questions fast to earn tokens
